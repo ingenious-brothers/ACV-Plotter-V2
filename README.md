@@ -33,6 +33,7 @@ Usage Exapmle in R:<br/>
 > library(RACV)<br/>
 > ACV_Plotter("C:/Users/xyz/Desktop/ACV_Table_Builder.xlsm","FinalResult")<br/>
 
+Changes to this version: You can now filter the ACV in Excel file according to their relashionship or just the A, C and V <br/>
 
 Created by: Dr. Sh. Azizi, Ali Nikseresht, Mohammad Hosein Raeisi<br/>
 (All From Department of Management & Accounting, Shahid Beheshti University, Tehran, Iran)
