@@ -1,0 +1,11 @@
+Package: RACV
+Type: Package
+Title: Intelligent clustered model out of The ACV
+Version: 0.2.0
+Author: Ali Nikseresht
+Maintainer: Ali Nikseresht <ali.nikseresht.academic@gmail.com>
+Description: Plot an Intelligent clustered model out of The ACV(Attribute,Consequence,Value) data imported from an Excel file
+License: GPL-2
+Encoding: UTF-8
+LazyData: False
+Imports: readxl,tidyverse,igraph,DiagrammeR,diagram
